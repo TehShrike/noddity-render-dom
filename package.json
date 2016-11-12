@@ -36,6 +36,6 @@
     "noddity-butler": "^2.1.1",
     "noddity-linkifier": "^2.2.2",
     "smokestack": "^3.3.1",
-    "tape": "^4.6.1"
+    "tape": "^4.6.2"
   }
 }
